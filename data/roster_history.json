@@ -1,0 +1,747 @@
+{
+  "2026-01": {
+    "generated_at": "2026-01-11T16:41:15.013950",
+    "employees": {
+      "Sainath M": {
+        "working_days": 21,
+        "days_off": 10,
+        "weekend_shifts": 9,
+        "night_shifts": 0,
+        "assigned_shift": 1,
+        "consecutive_off_check": true
+      },
+      "shiwanngi 2": {
+        "working_days": 23,
+        "days_off": 8,
+        "weekend_shifts": 5,
+        "night_shifts": 0,
+        "assigned_shift": 2,
+        "consecutive_off_check": true
+      },
+      "ankitha": {
+        "working_days": 22,
+        "days_off": 9,
+        "weekend_shifts": 0,
+        "night_shifts": 22,
+        "assigned_shift": 3,
+        "consecutive_off_check": true
+      },
+      "sharon": {
+        "working_days": 23,
+        "days_off": 8,
+        "weekend_shifts": 9,
+        "night_shifts": 0,
+        "assigned_shift": 1,
+        "consecutive_off_check": true
+      },
+      "naveena": {
+        "working_days": 23,
+        "days_off": 8,
+        "weekend_shifts": 9,
+        "night_shifts": 0,
+        "assigned_shift": 2,
+        "consecutive_off_check": true
+      },
+      "vijay": {
+        "working_days": 23,
+        "days_off": 8,
+        "weekend_shifts": 5,
+        "night_shifts": 23,
+        "assigned_shift": 3,
+        "consecutive_off_check": true
+      },
+      "rajitha": {
+        "working_days": 23,
+        "days_off": 8,
+        "weekend_shifts": 5,
+        "night_shifts": 0,
+        "assigned_shift": 1,
+        "consecutive_off_check": true
+      },
+      "rithika": {
+        "working_days": 23,
+        "days_off": 8,
+        "weekend_shifts": 5,
+        "night_shifts": 0,
+        "assigned_shift": 2,
+        "consecutive_off_check": true
+      },
+      "Purna Jear": {
+        "working_days": 23,
+        "days_off": 8,
+        "weekend_shifts": 5,
+        "night_shifts": 23,
+        "assigned_shift": 3,
+        "consecutive_off_check": true
+      },
+      "kamran": {
+        "working_days": 22,
+        "days_off": 9,
+        "weekend_shifts": 0,
+        "night_shifts": 0,
+        "assigned_shift": 1,
+        "consecutive_off_check": true
+      },
+      "anjali": {
+        "working_days": 22,
+        "days_off": 9,
+        "weekend_shifts": 0,
+        "night_shifts": 0,
+        "assigned_shift": 2,
+        "consecutive_off_check": true
+      },
+      "sridivya": {
+        "working_days": 21,
+        "days_off": 10,
+        "weekend_shifts": 9,
+        "night_shifts": 21,
+        "assigned_shift": 3,
+        "consecutive_off_check": true
+      },
+      "nizam": {
+        "working_days": 21,
+        "days_off": 10,
+        "weekend_shifts": 4,
+        "night_shifts": 0,
+        "assigned_shift": 1,
+        "consecutive_off_check": true
+      },
+      "dinesh": {
+        "working_days": 21,
+        "days_off": 10,
+        "weekend_shifts": 4,
+        "night_shifts": 0,
+        "assigned_shift": 2,
+        "consecutive_off_check": true
+      },
+      "chetan": {
+        "working_days": 21,
+        "days_off": 10,
+        "weekend_shifts": 4,
+        "night_shifts": 21,
+        "assigned_shift": 3,
+        "consecutive_off_check": true
+      },
+      "suban": {
+        "working_days": 23,
+        "days_off": 8,
+        "weekend_shifts": 5,
+        "night_shifts": 0,
+        "assigned_shift": 1,
+        "consecutive_off_check": true
+      },
+      "aron": {
+        "working_days": 21,
+        "days_off": 10,
+        "weekend_shifts": 9,
+        "night_shifts": 0,
+        "assigned_shift": 2,
+        "consecutive_off_check": true
+      },
+      "sandra": {
+        "working_days": 23,
+        "days_off": 8,
+        "weekend_shifts": 9,
+        "night_shifts": 23,
+        "assigned_shift": 3,
+        "consecutive_off_check": true
+      }
+    }
+  },
+  "2026-02": {
+    "generated_at": "2026-01-21T16:33:44.023024",
+    "employees": {
+      "John Anderson": {
+        "working_days": 18,
+        "days_off": 10,
+        "weekend_shifts": 4,
+        "night_shifts": 18,
+        "assigned_shift": 3,
+        "consecutive_off_check": true
+      },
+      "Sarah Mitchell": {
+        "working_days": 18,
+        "days_off": 10,
+        "weekend_shifts": 4,
+        "night_shifts": 0,
+        "assigned_shift": 1,
+        "consecutive_off_check": true
+      },
+      "Michael Chen": {
+        "working_days": 18,
+        "days_off": 10,
+        "weekend_shifts": 4,
+        "night_shifts": 0,
+        "assigned_shift": 2,
+        "consecutive_off_check": true
+      },
+      "Emily Rodriguez": {
+        "working_days": 18,
+        "days_off": 10,
+        "weekend_shifts": 4,
+        "night_shifts": 0,
+        "assigned_shift": 2,
+        "consecutive_off_check": true
+      },
+      "David Kim": {
+        "working_days": 18,
+        "days_off": 10,
+        "weekend_shifts": 4,
+        "night_shifts": 0,
+        "assigned_shift": 2,
+        "consecutive_off_check": true
+      },
+      "Jessica Taylor": {
+        "working_days": 18,
+        "days_off": 10,
+        "weekend_shifts": 4,
+        "night_shifts": 0,
+        "assigned_shift": 1,
+        "consecutive_off_check": true
+      },
+      "Robert Wilson": {
+        "working_days": 18,
+        "days_off": 10,
+        "weekend_shifts": 4,
+        "night_shifts": 0,
+        "assigned_shift": 1,
+        "consecutive_off_check": true
+      },
+      "Amanda Martinez": {
+        "working_days": 18,
+        "days_off": 10,
+        "weekend_shifts": 4,
+        "night_shifts": 18,
+        "assigned_shift": 3,
+        "consecutive_off_check": true
+      },
+      "Christopher Lee": {
+        "working_days": 18,
+        "days_off": 10,
+        "weekend_shifts": 4,
+        "night_shifts": 0,
+        "assigned_shift": 1,
+        "consecutive_off_check": true
+      },
+      "Jennifer Garcia": {
+        "working_days": 18,
+        "days_off": 10,
+        "weekend_shifts": 4,
+        "night_shifts": 0,
+        "assigned_shift": 1,
+        "consecutive_off_check": true
+      },
+      "Matthew Brown": {
+        "working_days": 18,
+        "days_off": 10,
+        "weekend_shifts": 4,
+        "night_shifts": 0,
+        "assigned_shift": 2,
+        "consecutive_off_check": true
+      },
+      "Ashley Johnson": {
+        "working_days": 18,
+        "days_off": 10,
+        "weekend_shifts": 4,
+        "night_shifts": 18,
+        "assigned_shift": 3,
+        "consecutive_off_check": true
+      },
+      "Daniel Thompson": {
+        "working_days": 18,
+        "days_off": 10,
+        "weekend_shifts": 4,
+        "night_shifts": 18,
+        "assigned_shift": 3,
+        "consecutive_off_check": true
+      },
+      "Stephanie White": {
+        "working_days": 18,
+        "days_off": 10,
+        "weekend_shifts": 4,
+        "night_shifts": 18,
+        "assigned_shift": 3,
+        "consecutive_off_check": true
+      },
+      "Andrew Davis": {
+        "working_days": 18,
+        "days_off": 10,
+        "weekend_shifts": 4,
+        "night_shifts": 0,
+        "assigned_shift": 2,
+        "consecutive_off_check": true
+      },
+      "Nicole Miller": {
+        "working_days": 18,
+        "days_off": 10,
+        "weekend_shifts": 4,
+        "night_shifts": 0,
+        "assigned_shift": 2,
+        "consecutive_off_check": true
+      },
+      "Joshua Moore": {
+        "working_days": 18,
+        "days_off": 10,
+        "weekend_shifts": 4,
+        "night_shifts": 0,
+        "assigned_shift": 1,
+        "consecutive_off_check": true
+      },
+      "Rachel Jackson": {
+        "working_days": 18,
+        "days_off": 10,
+        "weekend_shifts": 4,
+        "night_shifts": 18,
+        "assigned_shift": 3,
+        "consecutive_off_check": true
+      }
+    }
+  },
+  "2026-03": {
+    "generated_at": "2026-01-08T15:52:26.751783",
+    "employees": {
+      "Sainath M": {
+        "working_days": 23,
+        "days_off": 8,
+        "weekend_shifts": 9,
+        "night_shifts": 0,
+        "assigned_shift": 1,
+        "consecutive_off_check": true
+      },
+      "shiwanngi 2": {
+        "working_days": 23,
+        "days_off": 8,
+        "weekend_shifts": 5,
+        "night_shifts": 0,
+        "assigned_shift": 2,
+        "consecutive_off_check": true
+      },
+      "ankitha": {
+        "working_days": 21,
+        "days_off": 10,
+        "weekend_shifts": 4,
+        "night_shifts": 21,
+        "assigned_shift": 3,
+        "consecutive_off_check": true
+      },
+      "sharon": {
+        "working_days": 21,
+        "days_off": 10,
+        "weekend_shifts": 4,
+        "night_shifts": 0,
+        "assigned_shift": 1,
+        "consecutive_off_check": true
+      },
+      "naveena": {
+        "working_days": 22,
+        "days_off": 9,
+        "weekend_shifts": 0,
+        "night_shifts": 0,
+        "assigned_shift": 2,
+        "consecutive_off_check": true
+      },
+      "vijay": {
+        "working_days": 21,
+        "days_off": 10,
+        "weekend_shifts": 4,
+        "night_shifts": 21,
+        "assigned_shift": 3,
+        "consecutive_off_check": true
+      },
+      "rajitha": {
+        "working_days": 23,
+        "days_off": 8,
+        "weekend_shifts": 5,
+        "night_shifts": 0,
+        "assigned_shift": 1,
+        "consecutive_off_check": true
+      },
+      "rithika": {
+        "working_days": 22,
+        "days_off": 9,
+        "weekend_shifts": 9,
+        "night_shifts": 0,
+        "assigned_shift": 2,
+        "consecutive_off_check": true
+      },
+      "Purna Jear": {
+        "working_days": 23,
+        "days_off": 8,
+        "weekend_shifts": 9,
+        "night_shifts": 23,
+        "assigned_shift": 3,
+        "consecutive_off_check": true
+      },
+      "kamran": {
+        "working_days": 22,
+        "days_off": 9,
+        "weekend_shifts": 0,
+        "night_shifts": 0,
+        "assigned_shift": 1,
+        "consecutive_off_check": true
+      },
+      "anjali": {
+        "working_days": 21,
+        "days_off": 10,
+        "weekend_shifts": 4,
+        "night_shifts": 0,
+        "assigned_shift": 2,
+        "consecutive_off_check": true
+      },
+      "sridivya": {
+        "working_days": 22,
+        "days_off": 9,
+        "weekend_shifts": 9,
+        "night_shifts": 22,
+        "assigned_shift": 3,
+        "consecutive_off_check": true
+      },
+      "nizam": {
+        "working_days": 22,
+        "days_off": 9,
+        "weekend_shifts": 9,
+        "night_shifts": 0,
+        "assigned_shift": 1,
+        "consecutive_off_check": true
+      },
+      "dinesh": {
+        "working_days": 21,
+        "days_off": 10,
+        "weekend_shifts": 4,
+        "night_shifts": 0,
+        "assigned_shift": 2,
+        "consecutive_off_check": true
+      },
+      "chetan": {
+        "working_days": 23,
+        "days_off": 8,
+        "weekend_shifts": 5,
+        "night_shifts": 23,
+        "assigned_shift": 3,
+        "consecutive_off_check": true
+      },
+      "suban": {
+        "working_days": 21,
+        "days_off": 10,
+        "weekend_shifts": 4,
+        "night_shifts": 0,
+        "assigned_shift": 1,
+        "consecutive_off_check": true
+      },
+      "aron": {
+        "working_days": 23,
+        "days_off": 8,
+        "weekend_shifts": 9,
+        "night_shifts": 0,
+        "assigned_shift": 2,
+        "consecutive_off_check": true
+      },
+      "sandra": {
+        "working_days": 22,
+        "days_off": 9,
+        "weekend_shifts": 0,
+        "night_shifts": 22,
+        "assigned_shift": 3,
+        "consecutive_off_check": true
+      }
+    }
+  },
+  "2026-07": {
+    "generated_at": "2026-01-11T22:41:41.110046",
+    "employees": {
+      "Sainath": {
+        "working_days": 23,
+        "days_off": 8,
+        "weekend_shifts": 4,
+        "night_shifts": 0,
+        "assigned_shift": 1,
+        "consecutive_off_check": true
+      },
+      "shiwanngi": {
+        "working_days": 23,
+        "days_off": 8,
+        "weekend_shifts": 4,
+        "night_shifts": 0,
+        "assigned_shift": 2,
+        "consecutive_off_check": true
+      },
+      "ankitha": {
+        "working_days": 22,
+        "days_off": 9,
+        "weekend_shifts": 8,
+        "night_shifts": 22,
+        "assigned_shift": 3,
+        "consecutive_off_check": true
+      },
+      "sharon": {
+        "working_days": 23,
+        "days_off": 8,
+        "weekend_shifts": 0,
+        "night_shifts": 0,
+        "assigned_shift": 1,
+        "consecutive_off_check": true
+      },
+      "naveena": {
+        "working_days": 22,
+        "days_off": 9,
+        "weekend_shifts": 8,
+        "night_shifts": 0,
+        "assigned_shift": 2,
+        "consecutive_off_check": true
+      },
+      "vijay": {
+        "working_days": 23,
+        "days_off": 8,
+        "weekend_shifts": 0,
+        "night_shifts": 23,
+        "assigned_shift": 3,
+        "consecutive_off_check": true
+      },
+      "rajitha": {
+        "working_days": 21,
+        "days_off": 10,
+        "weekend_shifts": 8,
+        "night_shifts": 0,
+        "assigned_shift": 1,
+        "consecutive_off_check": true
+      },
+      "rithika": {
+        "working_days": 22,
+        "days_off": 9,
+        "weekend_shifts": 4,
+        "night_shifts": 0,
+        "assigned_shift": 2,
+        "consecutive_off_check": true
+      },
+      "Purna Jear": {
+        "working_days": 23,
+        "days_off": 8,
+        "weekend_shifts": 4,
+        "night_shifts": 23,
+        "assigned_shift": 3,
+        "consecutive_off_check": true
+      },
+      "kamran": {
+        "working_days": 22,
+        "days_off": 9,
+        "weekend_shifts": 4,
+        "night_shifts": 0,
+        "assigned_shift": 1,
+        "consecutive_off_check": true
+      },
+      "anjali": {
+        "working_days": 21,
+        "days_off": 10,
+        "weekend_shifts": 8,
+        "night_shifts": 0,
+        "assigned_shift": 2,
+        "consecutive_off_check": true
+      },
+      "sridivya": {
+        "working_days": 23,
+        "days_off": 8,
+        "weekend_shifts": 4,
+        "night_shifts": 23,
+        "assigned_shift": 3,
+        "consecutive_off_check": true
+      },
+      "nizam": {
+        "working_days": 22,
+        "days_off": 9,
+        "weekend_shifts": 8,
+        "night_shifts": 0,
+        "assigned_shift": 1,
+        "consecutive_off_check": true
+      },
+      "dinesh": {
+        "working_days": 23,
+        "days_off": 8,
+        "weekend_shifts": 0,
+        "night_shifts": 0,
+        "assigned_shift": 2,
+        "consecutive_off_check": true
+      },
+      "chetan": {
+        "working_days": 22,
+        "days_off": 9,
+        "weekend_shifts": 4,
+        "night_shifts": 22,
+        "assigned_shift": 3,
+        "consecutive_off_check": true
+      },
+      "suban": {
+        "working_days": 23,
+        "days_off": 8,
+        "weekend_shifts": 4,
+        "night_shifts": 0,
+        "assigned_shift": 1,
+        "consecutive_off_check": true
+      },
+      "aron": {
+        "working_days": 23,
+        "days_off": 8,
+        "weekend_shifts": 4,
+        "night_shifts": 0,
+        "assigned_shift": 2,
+        "consecutive_off_check": true
+      },
+      "sandra": {
+        "working_days": 21,
+        "days_off": 10,
+        "weekend_shifts": 8,
+        "night_shifts": 21,
+        "assigned_shift": 3,
+        "consecutive_off_check": true
+      }
+    }
+  },
+  "2026-08": {
+    "generated_at": "2026-01-11T22:53:02.222014",
+    "employees": {
+      "Sainath": {
+        "working_days": 23,
+        "days_off": 8,
+        "weekend_shifts": 10,
+        "night_shifts": 0,
+        "assigned_shift": 1,
+        "consecutive_off_check": true
+      },
+      "shiwanngi": {
+        "working_days": 23,
+        "days_off": 8,
+        "weekend_shifts": 10,
+        "night_shifts": 0,
+        "assigned_shift": 2,
+        "consecutive_off_check": true
+      },
+      "ankitha": {
+        "working_days": 23,
+        "days_off": 8,
+        "weekend_shifts": 10,
+        "night_shifts": 23,
+        "assigned_shift": 3,
+        "consecutive_off_check": true
+      },
+      "sharon": {
+        "working_days": 23,
+        "days_off": 8,
+        "weekend_shifts": 10,
+        "night_shifts": 0,
+        "assigned_shift": 1,
+        "consecutive_off_check": true
+      },
+      "naveena": {
+        "working_days": 21,
+        "days_off": 10,
+        "weekend_shifts": 0,
+        "night_shifts": 0,
+        "assigned_shift": 2,
+        "consecutive_off_check": true
+      },
+      "vijay": {
+        "working_days": 21,
+        "days_off": 10,
+        "weekend_shifts": 0,
+        "night_shifts": 21,
+        "assigned_shift": 3,
+        "consecutive_off_check": true
+      },
+      "rajitha": {
+        "working_days": 21,
+        "days_off": 10,
+        "weekend_shifts": 5,
+        "night_shifts": 0,
+        "assigned_shift": 1,
+        "consecutive_off_check": true
+      },
+      "rithika": {
+        "working_days": 21,
+        "days_off": 10,
+        "weekend_shifts": 5,
+        "night_shifts": 0,
+        "assigned_shift": 2,
+        "consecutive_off_check": true
+      },
+      "Purna Jear": {
+        "working_days": 22,
+        "days_off": 9,
+        "weekend_shifts": 5,
+        "night_shifts": 22,
+        "assigned_shift": 3,
+        "consecutive_off_check": true
+      },
+      "kamran": {
+        "working_days": 21,
+        "days_off": 10,
+        "weekend_shifts": 5,
+        "night_shifts": 0,
+        "assigned_shift": 1,
+        "consecutive_off_check": true
+      },
+      "anjali": {
+        "working_days": 22,
+        "days_off": 9,
+        "weekend_shifts": 5,
+        "night_shifts": 0,
+        "assigned_shift": 2,
+        "consecutive_off_check": true
+      },
+      "sridivya": {
+        "working_days": 23,
+        "days_off": 8,
+        "weekend_shifts": 10,
+        "night_shifts": 23,
+        "assigned_shift": 3,
+        "consecutive_off_check": true
+      },
+      "nizam": {
+        "working_days": 21,
+        "days_off": 10,
+        "weekend_shifts": 0,
+        "night_shifts": 0,
+        "assigned_shift": 1,
+        "consecutive_off_check": true
+      },
+      "dinesh": {
+        "working_days": 21,
+        "days_off": 10,
+        "weekend_shifts": 5,
+        "night_shifts": 0,
+        "assigned_shift": 2,
+        "consecutive_off_check": true
+      },
+      "chetan": {
+        "working_days": 21,
+        "days_off": 10,
+        "weekend_shifts": 5,
+        "night_shifts": 21,
+        "assigned_shift": 3,
+        "consecutive_off_check": true
+      },
+      "suban": {
+        "working_days": 22,
+        "days_off": 9,
+        "weekend_shifts": 5,
+        "night_shifts": 0,
+        "assigned_shift": 1,
+        "consecutive_off_check": true
+      },
+      "aron": {
+        "working_days": 23,
+        "days_off": 8,
+        "weekend_shifts": 10,
+        "night_shifts": 0,
+        "assigned_shift": 2,
+        "consecutive_off_check": true
+      },
+      "sandra": {
+        "working_days": 21,
+        "days_off": 10,
+        "weekend_shifts": 5,
+        "night_shifts": 21,
+        "assigned_shift": 3,
+        "consecutive_off_check": true
+      }
+    }
+  }
+}

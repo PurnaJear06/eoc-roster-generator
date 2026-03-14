@@ -1,0 +1,77 @@
+{
+  "team": [
+    {
+      "name": "John Anderson",
+      "seniority_rank": 1
+    },
+    {
+      "name": "Sarah Mitchell",
+      "seniority_rank": 2
+    },
+    {
+      "name": "Michael Chen",
+      "seniority_rank": 3
+    },
+    {
+      "name": "Emily Rodriguez",
+      "seniority_rank": 4
+    },
+    {
+      "name": "David Kim",
+      "seniority_rank": 5
+    },
+    {
+      "name": "Jessica Taylor",
+      "seniority_rank": 6
+    },
+    {
+      "name": "Robert Wilson",
+      "seniority_rank": 7
+    },
+    {
+      "name": "Amanda Martinez",
+      "seniority_rank": 8
+    },
+    {
+      "name": "Christopher Lee",
+      "seniority_rank": 9
+    },
+    {
+      "name": "Jennifer Garcia",
+      "seniority_rank": 10
+    },
+    {
+      "name": "Matthew Brown",
+      "seniority_rank": 11
+    },
+    {
+      "name": "Ashley Johnson",
+      "seniority_rank": 12
+    },
+    {
+      "name": "Daniel Thompson",
+      "seniority_rank": 13
+    },
+    {
+      "name": "Stephanie White",
+      "seniority_rank": 14
+    },
+    {
+      "name": "Andrew Davis",
+      "seniority_rank": 15
+    },
+    {
+      "name": "Nicole Miller",
+      "seniority_rank": 16
+    },
+    {
+      "name": "Joshua Moore",
+      "seniority_rank": 17
+    },
+    {
+      "name": "Rachel Jackson",
+      "seniority_rank": 18
+    }
+  ],
+  "last_updated": "2026-01-21T16:33:04.148946"
+}
